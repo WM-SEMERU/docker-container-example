@@ -1,0 +1,235 @@
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.0.2) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+2023-08-29 16:58:22.867101: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-08-29 16:58:23.026708: E tensorflow/stream_executor/cuda/cuda_blas.cc:2981] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     /root/nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!
+[nltk_data] Downloading package tagsets to /root/nltk_data...
+[nltk_data]   Package tagsets is already up-to-date!
+/usr/local/lib/python3.8/dist-packages/code_rationales/grammars
+**********Tagging rationals for exp: 0**********
+**********Tagging rationals for exp: 1**********
+**********Tagging rationals for exp: 2**********
+**********Tagging rationals for exp: 3**********
+**********Tagging rationals for exp: 4**********
+**********Tagging rationals for exp: 5**********
+**********Tagging rationals for exp: 6**********
+**********Tagging rationals for exp: 7**********
+**********Tagging rationals for exp: 8**********
+**********Tagging rationals for exp: 9**********
+**********Tagging rationals for exp: 10**********
+**********Tagging rationals for exp: 11**********
+**********Tagging rationals for exp: 12**********
+**********Tagging rationals for exp: 13**********
+**********Tagging rationals for exp: 14**********
+**********Tagging rationals for exp: 15**********
+**********Tagging rationals for exp: 16**********
+**********Tagging rationals for exp: 17**********
+**********Tagging rationals for exp: 18**********
+**********Tagging rationals for exp: 19**********
+**********Tagging rationals for exp: 20**********
+**********Tagging rationals for exp: 21**********
+**********Tagging rationals for exp: 22**********
+**********Tagging rationals for exp: 23**********
+**********Tagging rationals for exp: 24**********
+**********Tagging rationals for exp: 25**********
+**********Tagging rationals for exp: 26**********
+**********Tagging rationals for exp: 27**********
+**********Tagging rationals for exp: 28**********
+**********Tagging rationals for exp: 29**********
+**********Aggregrating rationals for exp: 0**********
+r-0
+r-1
+r-2
+r-3
+r-4
+r-5
+r-6
+r-7
+r-8
+r-9
+r-10
+r-11
+r-12
+r-13
+r-14
+r-15
+r-16
+r-17
+r-18
+r-19
+r-20
+r-21
+r-22
+r-23
+r-24
+r-25
+r-26
+r-27
+r-28
+r-29
+r-30
+r-31
+r-32
+r-33
+r-34
+r-35
+r-36
+r-37
+r-38
+r-39
+r-40
+r-41
+r-42
+r-43
+r-44
+r-45
+r-46
+r-47
+r-48
+r-49
+r-50
+r-51
+r-52
+r-53
+r-54
+r-55
+r-56
+r-57
+r-58
+r-59
+r-60
+r-61
+r-62
+r-63
+r-64
+r-65
+r-66
+r-67
+r-68
+r-69
+r-70
+r-71
+r-72
+r-73
+r-74
+r-75
+r-76
+r-77
+r-78
+r-79
+r-80
+r-81
+r-82
+r-83
+r-84
+r-85
+r-86
+r-87
+r-88
+r-89
+r-90
+r-91
+r-92
+r-93
+r-94
+r-95
+r-96
+r-97
+r-98
+r-99
+**********Aggregrating rationals for exp: 1**********
+r-0
+r-1
+r-2
+r-3
+r-4
+r-5
+r-6
+r-7
+r-8
+r-9
+r-10
+r-11
+r-12
+r-13
+r-14
+r-15
+r-16
+r-17
+r-18
+r-19
+r-20
+r-21
+r-22
+r-23
+r-24
+r-25
+r-26
+r-27
+r-28
+r-29
+r-30
+r-31
+r-32
+r-33
+r-34
+r-35
+r-36
+r-37
+r-38
+r-39
+r-40
+r-41
+r-42
+r-43
+r-44
+r-45
+r-46
+r-47
+r-48
+r-49
+r-50
+r-51
+r-52
+r-53
+r-54
+r-55
+r-56
+r-57
+r-58
+r-59
+r-60
+r-61
+r-62
+r-63
+r-64
+r-65
+r-66
+r-67
+r-68
+r-69
+r-70
+r-71
+r-72
+r-73
+r-74
+r-75
+r-76
+r-77
+r-78
+r-79
+r-80
+r-81
+r-82
+r-83
+r-84
+r-85
+r-86
+r-87
+r-88

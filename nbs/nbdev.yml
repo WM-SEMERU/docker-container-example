@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "code-rationales"
+  site-url: "https://WM-SEMERU.github.io/code-rationales"
+  description: "Code rationales research"
+  repo-branch: main
+  repo-url: "https://github.com/WM-SEMERU/code-rationales"

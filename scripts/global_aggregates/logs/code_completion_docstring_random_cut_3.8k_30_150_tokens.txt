@@ -1,0 +1,28 @@
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.0.2) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+2023-08-29 16:59:58.822214: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-08-29 16:59:58.980966: E tensorflow/stream_executor/cuda/cuda_blas.cc:2981] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     /root/nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!
+[nltk_data] Downloading package tagsets to /root/nltk_data...
+[nltk_data]   Package tagsets is already up-to-date!
+/usr/local/lib/python3.8/dist-packages/code_rationales/grammars
+**********Tagging rationals for exp: 0**********
+**********Tagging rationals for exp: 1**********
+**********Tagging rationals for exp: 2**********
+**********Tagging rationals for exp: 3**********
+**********Tagging rationals for exp: 4**********
+**********Tagging rationals for exp: 5**********
+**********Tagging rationals for exp: 6**********
+**********Tagging rationals for exp: 7**********
+**********Tagging rationals for exp: 8**********
+**********Tagging rationals for exp: 9**********
+**********Tagging rationals for exp: 10**********
+**********Tagging rationals for exp: 11**********
+**********Tagging rationals for exp: 12**********
+**********Tagging rationals for exp: 13**********

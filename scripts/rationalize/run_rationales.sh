@@ -1,0 +1,4 @@
+#nohup python3 -u /workspaces/code-rationales/scripts/rationalize/global_rationalization.py > /workspaces/code-rationales/scripts/rationalize/logs/code_completion_random_cut_5k_30_512_tokens.txt &
+#nohup python3 -u /workspaces/code-rationales/scripts/rationalize/global_rationalization.py > /workspaces/code-rationales/scripts/rationalize/logs/code_completion_docstring_random_cut_3.8k_30_150_tokens.txt &
+#nohup python3 -u /workspaces/code-rationales/scripts/rationalize/global_rationalization.py > /workspaces/code-rationales/scripts/rationalize/logs/code_completion_docstring_signature_3.8k_30_150_tokens.txt &
+nohup python3 -u /workspaces/code-rationales/scripts/rationalize/global_rationalization.py > /workspaces/code-rationales/scripts/rationalize/logs/code_completion_docstring_5k_30_150_tokens.txt &
